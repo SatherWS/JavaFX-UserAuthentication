@@ -1,0 +1,26 @@
+.solidcolor-btn {
+	-fx-background-color: #02182B;
+}
+.solidcolor-btn:hover {
+	-fx-background-color: #fff;
+	-fx-border-color: #02182B;
+    -fx-border-width: 2;
+    -fx-text-fill: #000;
+    /*-fx-effect:dropshadow(gaussian, #000, 10, 0.1, 5, 2);*/
+}
+.border-btn {
+	-fx-background-color: transparent;
+	-fx-border-color: #02182B;
+    -fx-border-width: 2;
+}
+.white-border-btn {
+	-fx-background-color: transparent;
+	-fx-border-color: #fff;
+    -fx-border-width: 2;
+}
+
+.radio-box .radio .dot {
+    -fx-background-color: #000;
+    -fx-background-insets: 0;
+    -fx-text-alignment: center;
+}
