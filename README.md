@@ -1,4 +1,4 @@
-# Lifeline-Assistant
+# JavaFX-UserAuthentication
 This project is a database interface that will be used hypothetically by Assurance Wireless employees to create, edit, accept and deny Lifeline applications.
 This project is written in Java using the JavaFX framework using Scene Builder for front-end rendering.
 
